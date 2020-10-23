@@ -1,0 +1,14 @@
+
+@import '~antd/dist/antd.css';
+
+.active{
+    border-bottom: solid 3px #009fda;
+    color: #009fda !important;
+}
+.nav-link{
+    margin: 0 15px;
+}
+.inactive{
+    border: 0px;
+    font-weight: normal;
+}
